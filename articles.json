@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "title": "Введение в Таро",
+      "url": "https://github.com/yourrepo/articles/introduction.html"
+    },
+    {
+      "title": "История карт Таро",
+      "url": "https://github.com/yourrepo/articles/history.html"
+    }
+  ]
+}
