@@ -1,6 +1,6 @@
 {
   "articles": [
-        {
+    {
       "title": "Приветствие",
       "url": "https://telegra.ph/5-Mifov-o-Taro-ili-Zachem-mne-nuzhny-ehti-karty-09-28"
     },
@@ -8,29 +8,31 @@
       "title": "Вступление",
       "url": "https://telegra.ph/Privet-menya-zovut-Katya-i-ya-Tarolog-so-stazhem-bolee-20-let-09-18"
     },
-        {
+    {
       "title": "Урок: Структура колоды",
       "url": "https://telegra.ph/Taro-v-rukah-s-chego-nachat-09-28"
     },
-        {
+    {
       "title": "Урок: Первый Расклад. Карта Дня.",
       "url": "https://telegra.ph/Tvoj-pervyj-rasklad-na-kartah-Taro-09-28"
     },
-        {
+    {
       "title": "Урок: Старшие арканы.",
-      "url": "https://telegra.ph/Starshie-Arkany-Znachenie-09-30"
-    },
+      "url": "https://telegra.ph/Starshie-Arkany-Znachenie-09-30",
+      "subsections": [
         {
-      "title": "Шут",
-      "url": "https://telegra.ph/0-ili-SHut-ili-Durak-09-30"
-    },
-    {
-      "title": "Маг",
-      "url": "https://telegra.ph/1-ili-Mag-10-07"
-    },
-    {
-      "title": "Верховная Жрица",
-      "url": "https://telegra.ph/2-ili-Verhovnaya-ZHrica-10-07"
-    }    
+          "title": "Шут",
+          "url": "https://telegra.ph/0-ili-SHut-ili-Durak-09-30"
+        },
+        {
+          "title": "Маг",
+          "url": "https://telegra.ph/1-ili-Mag-10-07"
+        },
+        {
+          "title": "Верховная Жрица",
+          "url": "https://telegra.ph/2-ili-Verhovnaya-ZHrica-10-07"
+        }
+      ]
+    }
   ]
 }
